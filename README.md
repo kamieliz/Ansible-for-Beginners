@@ -4,3 +4,5 @@ This repository contains my notes from KodeKloud's Ansible for Absolute Beginner
 - Ansible concepts like inventory, playbooks, modules and variables
 - conditionals, loops, and roles
 - Advanced topics such as preparing windows servers for ansible, ansible-galaxy, patterns, dynamic inventory and custom modules
+
+This repository also contains a test ansible playbook that deploys a node on AWS EC2 from my DevOps Masterclass lesson on Ansible
